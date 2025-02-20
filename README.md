@@ -7,6 +7,7 @@ The purpose of your analysis is to explore the relationship between COVID-19 vac
 ## Data Sources:
 Data Source: Kaggle
 - <a href="https://github.com/Ahmansee/covid_analysis/blob/main/CovidDeaths%20(1).xlsx">Dataset</a>
+- <a href="https://github.com/Ahmansee/covid_analysis/blob/main/CovidVaccinations.xlsx">Dataset2</a>
 
 
 ## Questions for more insight:
