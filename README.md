@@ -6,6 +6,8 @@ The purpose of your analysis is to explore the relationship between COVID-19 vac
 
 ## Data Sources:
 Data Source: Kaggle
+- <a href="https://github.com/Ahmansee/covid_analysis/blob/main/CovidDeaths%20(1).xlsx">Dataset</a>
+
 
 ## Questions for more insight:
 1. Is there a statistically significant correlation between vaccination rates and reduced COVID-19 death rates?  
