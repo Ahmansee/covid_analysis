@@ -39,6 +39,7 @@ Data Source: Kaggle
 3. Older adults and individuals with underlying health conditions remained at higher risk of severe outcomes and death, even in highly vaccinated populations.  
 4. Vaccinated populations still had significantly lower death rates compared to unvaccinated groups during variant surges.  
 5. Death rates decreased steadily as vaccination rates increased, with the most significant declines observed in the months following widespread vaccination efforts.  
+- <a href="https://github.com/Ahmansee/covid_analysis/blob/main/my%20first%20work%20on%20power%20bi.pdf">view</a>
  
 ## Conclusion:
 The analysis demonstrated that vaccination is a critical tool in reducing COVID-19 death rates, but its effectiveness depends on factors such as public health policies, and demographic vulnerabilities. The findings underscore the need for targeted vaccination campaigns, booster doses, and integrated public health strategies to sustain low death rates and address emerging challenges like new variants. The use of Power BI enabled clear, interactive, and actionable insights for stakeholders.
